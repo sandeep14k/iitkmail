@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Meeting Recap",
+      "from": {
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      "to": "recipient1@example.com",
+      "timestamp": "2024-04-03T08:00:00Z",
+      "body": "Hi,\n\nHere's a recap of our meeting:\n- Discussed project timelines\n- Agreed on next steps\n\nBest regards,\nJohn Doe"
+    },
+    {
+      "id": 2,
+      "title": "Monthly Report",
+      "from": {
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      "to": "recipient2@example.com",
+      "timestamp": "2024-04-02T12:00:00Z",
+      "body": "Hello,\n\nAttached is the monthly report for your review.\n\nRegards,\nJohn Doe"
+    },
+    {
+      "id": 3,
+      "title": "Feedback Request",
+      "from": {
+        "name": "John Doe",
+        "email": "john@example.com"
+      },
+      "to": "recipient3@example.com",
+      "timestamp": "2024-04-01T15:00:00Z",
+      "body": "Hi,\n\nWe would appreciate your feedback on our recent event. Please find the attached feedback form.\n\nThanks,\nJohn Doe"
+    }
+  ]
+  

@@ -1,0 +1,81 @@
+.title{
+    margin-left: 2%;
+    font-size: large;
+    font-weight: bold;
+  
+    
+}
+.content{
+    margin-top: 0.5%;
+}
+.user-icon{
+    margin-left: 2%;
+    margin-top: 0.5%;
+    color: #d2cece;
+    background-color: #ede7e7;
+    width: fit-content;
+    padding: 1%;
+    border-radius: 100%;
+}
+.icon{
+    font-size: xx-large;
+}
+.from{
+    position:fixed;
+    top:17.3%;
+    margin-left: 7%;
+    font-size: small;
+    color:rgb(104, 163, 239);
+}
+.from-text{
+    font-size: small;
+    font-weight: bold;
+    color: #706e6e;
+}
+.sender{
+    position:fixed;
+    top:21.3%;
+    margin-left: 7%;
+    font-size: small;
+    color:rgb(104, 163, 239);
+}
+.sender-text{
+    font-size: small;
+    font-weight: bold;
+    color: #706e6e;
+}
+.to{
+    position:fixed;
+    top:23.5%;
+    margin-left: 7%;
+    font-size: small;
+    color: rgb(104, 163, 239);
+}
+.to-text{
+    font-size: small;
+    font-weight: bold;
+    color: #706e6e;
+}
+.date{
+    position:fixed;
+    top:29%;
+    margin-left: 7%;
+    font-size: small;
+    
+}
+.date-text{
+    font-size: small;
+    font-weight: bold;
+    color: #706e6e;
+}
+.mail-attachment{
+    margin-left: 2.5%;
+    position: fixed;
+    top:34%;
+}
+.main
+{
+    position:fixed;
+    top: 40%;
+    margin-left: 2%;
+}

@@ -1,0 +1,43 @@
+.maillist {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 24.05%;
+    width: 22%; /* Adjust this width as needed */
+    background-color: #fefafa;
+    border-right: 1px solid #ccc;
+}
+
+.mailcontent {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 46.099%;
+    width: 100%;
+    /* Adjust this width as needed */
+    background-color: #fefafa;
+    border-right: 1px solid #ccc;
+}
+
+.mails {
+    position: relative;
+    height: calc(100vh - 50px); /* Adjust the height as needed */
+    overflow-y: auto;
+}
+
+.mails-item {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 7%;
+    border-bottom: 0.1px solid #f0eeee;
+}
+.mails-item:hover{
+  background-color: #e6e3e3;
+}
+.clicked {
+    background-color: #f0f0f0; 
+}

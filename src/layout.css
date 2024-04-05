@@ -1,0 +1,83 @@
+.fixed-sections {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 4%;
+    width: 20%; /* Adjust this width as needed */
+    background-color: #fefafa;
+    border-right: 1px solid #ccc;
+  }
+  
+  .section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    background-color: #f0f0f0;
+  }
+  .inbox
+{
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01px solid #ccc;
+    
+}
+.inbox span{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.inbox .len{
+    margin-left: auto;
+    margin-right: 3%;
+
+}
+.inbox:hover{
+background-color: #bbbaba;
+}
+.sent:hover{
+    background-color: #bbbaba;
+    }
+    .spam:hover{
+        background-color: #bbbaba;
+        }
+        .draft:hover{
+            background-color: #bbbaba;
+            }
+            .trash:hover{
+                background-color: #bbbaba;
+                }
+.sent{
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01px solid #ccc;
+}
+img{
+    margin-left:10px ;
+}
+.sent span{
+    margin-left: 10px;  
+}
+.draft{
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01px solid #ccc;
+}
+.spam{
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01px solid #ccc;
+}
+.trash{
+    display: flex;
+    align-items: center;
+    border-bottom: 0.01px solid #ccc;
+}
+.draft span{
+    margin-left: 10px;  
+}
+.spam span{
+    margin-left: 10px;  
+}
+.trash span{
+    margin-left: 10px;  
+}

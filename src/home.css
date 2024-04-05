@@ -1,0 +1,27 @@
+/* FixedSections.css */
+.fixed-sections {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 200px; /* Adjust this width as needed */
+    background-color: #f0f0f0;
+  }
+  .fixed-sections1 {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 200px;
+    width: 200px; /* Adjust this width as needed */
+    background-color: #f0f0f0;
+  }
+  
+  .section {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  

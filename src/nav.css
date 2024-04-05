@@ -1,0 +1,14 @@
+.navbar{
+    border-bottom: 1px solid #ccc;
+    background-color: #f0f0f0;
+}
+.navbar button{
+    border: none;
+    background-color:#f0f0f0;
+    margin-left:2.2%;
+    padding: 1.8%;
+}
+.navbar button:hover{
+    background-color:#fefafa;
+    padding: 1.8%;
+}

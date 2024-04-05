@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Agenda",
+    "from": {"email": "sender1@example.com", "name": "Acme Corporation"},
+    "to": "recipient1@example.com",
+    "timestamp": "2024-04-03T08:00:00Z",
+    "body": "Hello,\n\nPlease find attached the agenda for our upcoming meeting.\n\nBest regards,\nSender1",
+    "attachment": {
+      "filename": "meeting_agenda_1.pdf",
+      "size": "2MB",
+      "url": "https://example.com/meeting_agenda_1.pdf"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Weekly Report",
+    "from": {"email": "sender2@example.com", "name": "Globex Corporation"},
+    "to": "recipient2@example.com",
+    "timestamp": "2024-04-02T12:00:00Z",
+    "body": "Hi,\n\nAttached is the weekly report for your review.\n\nRegards,\nSender2",
+    "attachment": {
+      "filename": "weekly_report_1.xlsx",
+      "size": "1.5MB",
+      "url": "https://example.com/weekly_report_1.xlsx"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Invitation",
+    "from": {"email": "sender3@example.com", "name": "Initech"},
+    "to": "recipient3@example.com",
+    "timestamp": "2024-04-01T15:00:00Z",
+    "body": "Dear Recipient,\n\nYou are cordially invited to the event. Please find the attached invitation for details.\n\nBest regards,\nSender3",
+    "attachment": {
+      "filename": "event_invitation_1.png",
+      "size": "500KB",
+      "url": "https://example.com/event_invitation_1.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Important Announcement",
+    "from": {"email": "sender4@example.com", "name": "Wayne Enterprises"},
+    "to": "recipient4@example.com",
+    "timestamp": "2024-03-31T10:00:00Z",
+    "body": "Hello,\n\nI have an important announcement to share with you. Please read the attached document for details.\n\nRegards,\nSender4",
+    "attachment": {
+      "filename": "announcement_document_1.docx",
+      "size": "800KB",
+      "url": "https://example.com/announcement_document_1.docx"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Project Update",
+    "from": {"email": "sender5@example.com", "name": "Stark Industries"},
+    "to": "recipient5@example.com",
+    "timestamp": "2024-03-30T09:00:00Z",
+    "body": "Hi,\n\nPlease find attached the latest update on the project.\n\nBest regards,\nSender5",
+    "attachment": {
+      "filename": "project_update_1.pdf",
+      "size": "3MB",
+      "url": "https://example.com/project_update_1.pdf"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Feedback Request",
+    "from": {"email": "sender6@example.com", "name": "LexCorp"},
+    "to": "recipient6@example.com",
+    "timestamp": "2024-03-29T14:00:00Z",
+    "body": "Hello,\n\nWe would appreciate your feedback on the recent event. Please find the attached feedback form.\n\nBest regards,\nSender6",
+    "attachment": {
+      "filename": "feedback_form_1.pdf",
+      "size": "1.2MB",
+      "url": "https://example.com/feedback_form_1.pdf"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Product Catalog",
+    "from": {"email": "sender7@example.com", "name": "Umbrella Corporation"},
+    "to": "recipient7@example.com",
+    "timestamp": "2024-03-28T16:00:00Z",
+    "body": "Hi,\n\nAttached is the latest product catalog. Let us know if you have any questions.\n\nRegards,\nSender7",
+    "attachment": {
+      "filename": "product_catalog_1.pdf",
+      "size": "4MB",
+      "url": "https://example.com/product_catalog_1.pdf"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Vacation Request",
+    "from": {"email": "sender8@example.com", "name": "Aperture Science"},
+    "to": "recipient8@example.com",
+    "timestamp": "2024-03-27T11:00:00Z",
+    "body": "Dear Manager,\n\nI would like to request vacation time from [start date] to [end date]. Attached is the vacation request form.\n\nThank you,\nSender8",
+    "attachment": {
+      "filename": "vacation_request_form_1.docx",
+      "size": "600KB",
+      "url": "https://example.com/vacation_request_form_1.docx"
+    }
+  },
+  {
+    "id": 9,
+    "title": "New Product Announcement",
+    "from": {"email": "sender9@example.com", "name": "Weyland-Yutani Corporation"},
+    "to": "recipient9@example.com",
+    "timestamp": "2024-03-26T13:00:00Z",
+    "body": "Hi,\n\nWe are excited to announce our new product launch. Please see the attached announcement for details.\n\nBest regards,\nSender9",
+    "attachment": {
+      "filename": "product_announcement_1.pdf",
+      "size": "2.5MB",
+      "url": "https://example.com/product_announcement_1.pdf"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Survey Invitation",
+    "from": {"email": "sender10@example.com", "name": "Tyrell Corporation"},
+    "to": "recipient10@example.com",
+    "timestamp": "2024-03-25T17:00:00Z",
+    "body": "Hello,\n\nWe invite you to participate in our survey. Please find the attached survey link.\n\nBest regards,\nSender10",
+    "attachment": {
+      "filename": "survey_link_1.txt",
+      "size": "1KB",
+      "url": "https://example.com/survey_link_1.txt"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Training Materials",
+    "from": {"email": "sender11@example.com", "name": "Cyberdyne Systems"},
+    "to": "recipient11@example.com",
+    "timestamp": "2024-03-24T09:30:00Z",
+    "body": "Hi,\n\nAttached are the training materials for the upcoming session.\n\nRegards,\nSender11",
+    "attachment": {
+      "filename": "training_materials_1.zip",
+      "size": "5MB",
+      "url": "https://example.com/training_materials_1.zip"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Budget Proposal",
+    "from": {"email": "sender12@example.com", "name": "Oscorp Industries"},
+    "to": "recipient12@example.com",
+    "timestamp": "2024-03-23T14:45:00Z",
+    "body": "Hello,\n\nPlease review the attached budget proposal and provide your feedback.\n\nBest regards,\nSender12",
+    "attachment": {
+      "filename": "budget_proposal_1.docx",
+      "size": "900KB",
+      "url": "https://example.com/budget_proposal_1.docx"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Job Application",
+    "from": {"email": "sender13@example.com", "name": "Spacely Space Sprockets"},
+    "to": "recipient13@example.com",
+    "timestamp": "2024-03-22T11:20:00Z",
+    "body": "Dear Hiring Manager,\n\nI am interested in the position advertised. Please find attached my resume for your consideration.\n\nThank you,\nSender13",
+    "attachment": {
+      "filename": "resume_1.pdf",
+      "size": "2MB",
+      "url": "https://example.com/resume_1.pdf"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Product Update",
+    "from": {"email": "sender14@example.com", "name": "Monsters, Inc."},
+    "to": "recipient14@example.com",
+    "timestamp": "2024-03-21T16:30:00Z",
+    "body": "Hi,\n\nPlease find attached the latest update on our product.\n\nBest regards,\nSender14",
+    "attachment": {
+      "filename": "product_update_2.pdf",
+      "size": "3.5MB",
+      "url": "https://example.com/product_update_2.pdf"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Meeting Minutes",
+    "from": {"email": "sender15@example.com", "name": "Hooli"},
+    "to": "recipient15@example.com",
+    "timestamp": "2024-03-20T10:15:00Z",
+    "body": "Hello,\n\nPlease find attached the minutes of our recent meeting.\n\nBest regards,\nSender15",
+    "attachment": {
+      "filename": "meeting_minutes_1.docx",
+      "size": "700KB",
+      "url": "https://example.com/meeting_minutes_1.docx"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Event Reminder",
+    "from": {"email": "sender16@example.com", "name": "Techtronics Industries"},
+    "to": "recipient16@example.com",
+    "timestamp": "2024-03-19T12:00:00Z",
+    "body": "Hi,\n\nJust a reminder about the upcoming event. Please see the attached reminder for details.\n\nRegards,\nSender16",
+    "attachment": {
+      "filename": "event_reminder_1.pdf",
+      "size": "600KB",
+      "url": "https://example.com/event_reminder_1.pdf"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Newsletter",
+    "from": {"email": "sender17@example.com", "name": "Virtucon"},
+    "to": "recipient17@example.com",
+    "timestamp": "2024-03-18T14:45:00Z",
+    "body": "Hello,\n\nAttached is the latest edition of our newsletter.\n\nBest regards,\nSender17",
+    "attachment": {
+      "filename": "newsletter_1.pdf",
+      "size": "2.8MB",
+      "url": "https://example.com/newsletter_1.pdf"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Request for Proposal",
+    "from": {"email": "sender18@example.com", "name": "Buy 'n' Large"},
+    "to": "recipient18@example.com",
+    "timestamp": "2024-03-17T09:30:00Z",
+    "body": "Hi,\n\nWe are seeking proposals for the project. Please find attached the request for proposal document.\n\nRegards,\nSender18",
+    "attachment": {
+      "filename": "request_for_proposal_1.pdf",
+      "size": "1.2MB",
+      "url": "https://example.com/request_for_proposal_1.pdf"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Feedback Received",
+    "from": {"email": "sender19@example.com", "name": "Wonka Industries"},
+    "to": "recipient19@example.com",
+    "timestamp": "2024-03-16T11:00:00Z",
+    "body": "Hello,\n\nThank you for providing your feedback. Attached is a summary of the feedback received.\n\nBest regards,\nSender19",
+    "attachment": {
+      "filename": "feedback_summary_1.xlsx",
+      "size": "900KB",
+      "url": "https://example.com/feedback_summary_1.xlsx"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Job Offer",
+    "from": {"email": "sender20@example.com", "name": "Gringotts Wizarding Bank"},
+    "to": "recipient20@example.com",
+    "timestamp": "2024-03-15T13:00:00Z",
+    "body": "Dear Recipient,\n\nWe are pleased to offer you the position. Please find attached the offer letter for your review.\n\nBest regards,\nSender20",
+    "attachment": {
+      "filename": "offer_letter_1.pdf",
+      "size": "1.5MB",
+      "url": "https://example.com/offer_letter_1.pdf"
+    }
+  }
+]
